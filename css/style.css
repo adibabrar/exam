@@ -1,0 +1,57 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin:0 auto;
+		
+}
+section{
+	width: 100%;
+	float: left;
+	background-image:url(../img/bg.jpg); 
+	background-size: cover;
+}
+.texts{
+	width: 50%;
+	float: left;
+
+}
+.texts h1{
+	font-size: 27px;
+    margin-top: 59px;
+}
+
+
+
+.texts p{
+	    margin: 10px 0px;
+}
+	
+}
+.texts a{ 
+	
+}
+.bt{
+
+
+}
+.contant{
+	width:50%;
+	float:left; 
+
+}
+.contant h2{
+	
+}
+.contant p{
+	
+}
+.bo{
+
+}
+.btn{
+
+}
